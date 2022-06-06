@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun  6 16:20:44 2022
+
+@author: mishr
+"""
+
+swift-venv
+*.pyc
+.env
+.DS_Store
